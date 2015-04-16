@@ -1,6 +1,6 @@
 {
   "name": "typographic-single-linefeeds",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Only when you want a new paragraph",
   "main": "index.es5.js",
   "scripts": {
