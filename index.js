@@ -1,1 +1,1 @@
-export default (input)=> input.trim().replace(/\n+/gim, '\n');
+export default (input)=> input.replace(/\n+/gim, '\n');
