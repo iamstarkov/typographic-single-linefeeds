@@ -32,7 +32,7 @@ singleLinefeeds(`foo\n\n\n`);     // foo
 
 ## License
 
-MIT © [Vladimir Starkov](http://vstarkov.com/)
+MIT © [Vladimir Starkov](http://iamstarkov.com/)
 
 [rtfm]: http://practicaltypography.com/carriage-returns.html
 [habits]: http://practicaltypography.com/typewriter-habits.html
