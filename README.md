@@ -40,14 +40,14 @@ MIT © [Vladimir Starkov](http://vstarkov.com/)
 [npm-url]: https://npmjs.org/package/typographic-single-linefeeds
 [npm-image]: http://img.shields.io/npm/v/typographic-single-linefeeds.svg
 
-[travis-url]: https://travis-ci.org/matmuchrapna/typographic-single-linefeeds
-[travis-image]: http://img.shields.io/travis/matmuchrapna/typographic-single-linefeeds.svg
+[travis-url]: https://travis-ci.org/iamstarkov/typographic-single-linefeeds
+[travis-image]: http://img.shields.io/travis/iamstarkov/typographic-single-linefeeds.svg
 
-[coveralls-url]: https://coveralls.io/r/matmuchrapna/typographic-single-linefeeds
-[coveralls-image]: http://img.shields.io/coveralls/matmuchrapna/typographic-single-linefeeds.svg
+[coveralls-url]: https://coveralls.io/r/iamstarkov/typographic-single-linefeeds
+[coveralls-image]: http://img.shields.io/coveralls/iamstarkov/typographic-single-linefeeds.svg
 
-[depstat-url]: https://david-dm.org/matmuchrapna/typographic-single-linefeeds
-[depstat-image]: https://david-dm.org/matmuchrapna/typographic-single-linefeeds.svg
+[depstat-url]: https://david-dm.org/iamstarkov/typographic-single-linefeeds
+[depstat-image]: https://david-dm.org/iamstarkov/typographic-single-linefeeds.svg
 
-[depstat-dev-url]: https://david-dm.org/matmuchrapna/typographic-single-linefeeds
-[depstat-dev-image]: https://david-dm.org/matmuchrapna/typographic-single-linefeeds/dev-status.svg
+[depstat-dev-url]: https://david-dm.org/iamstarkov/typographic-single-linefeeds
+[depstat-dev-image]: https://david-dm.org/iamstarkov/typographic-single-linefeeds/dev-status.svg
